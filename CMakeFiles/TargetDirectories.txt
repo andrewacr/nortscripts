@@ -1,0 +1,5 @@
+/home/zebranky/nort/CMakeFiles/chat.dir
+/home/zebranky/nort/CMakeFiles/dashel.dir
+/home/zebranky/nort/CMakeFiles/microterm.dir
+/home/zebranky/nort/CMakeFiles/portlist.dir
+/home/zebranky/nort/CMakeFiles/udp.dir

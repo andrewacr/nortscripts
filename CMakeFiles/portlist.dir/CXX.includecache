@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zebranky/nort/examples/portlist.cpp
+dashel/dashel.h
+-
+iostream
+-
+
+dashel/dashel.h
+string
+-
+set
+-
+map
+-
+vector
+-
+deque
+-
+stdexcept
+-
+

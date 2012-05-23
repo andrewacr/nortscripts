@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zebranky/nort/examples/microterm.cpp
+dashel/dashel.h
+-
+iostream
+-
+cassert
+-
+
+dashel/dashel.h
+string
+-
+set
+-
+map
+-
+vector
+-
+deque
+-
+stdexcept
+-
+

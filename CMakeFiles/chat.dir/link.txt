@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/chat.dir/examples/chat.cpp.o  -o chat -rdynamic libdashel.a 
